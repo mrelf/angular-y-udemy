@@ -1,1 +1,1 @@
-# angular-y-udemy
+# Angular Course from Udemy, by Maximilian Schwarzmüller.
